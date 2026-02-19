@@ -2,7 +2,8 @@
 
 Convertor X es una aplicación web ligera, moderna y potente diseñada para la conversión de imágenes directamente en el navegador. No requiere instalación de software ni conexión a un servidor para procesar los archivos, garantizando velocidad y privacidad.
 
-<img width="402" height="238" alt="c" src="https://github.com/user-attachments/assets/67f1aa4c-7ec8-4e41-8505-90509426180f" />
+<img width="300" height="300" alt="convertor x 1" src="https://github.com/user-attachments/assets/0d8d2c52-3415-4dea-b06c-7c28d857fb91" />
+
 <br><br>
 
 # 🚀 Características Principales
