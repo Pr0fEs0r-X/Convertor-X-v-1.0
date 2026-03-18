@@ -54,14 +54,16 @@ Puedes alojar este archivo en cualquier servidor web estático o servicio de hos
     GitHub Pages
     Netlify
     Vercel
+---
 
-# 👨‍💻 Autor y Contacto
+## 👤 Autor y Empresa
 
-Este proyecto fue desarrollado por el equipo de Security XTool's Development Team.
+Desarrollado con fines educativos y de seguridad informática.
 
-    Desarrollador: Rodolfo Hernández Baz
-    Email: rodolfohbaz@gmail.com
-    Sitio Web: rodolfohbaz.info/ToolsX/
+*   **Creador:** [Rodolfo Hernandez Baz](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X)
+*   **Compañía:** [Rhino Forensic & Reverse Toolkit v 1.0](https://rhinosecurity.xyz/)
+---
 
 # 📜 Licencia
 
